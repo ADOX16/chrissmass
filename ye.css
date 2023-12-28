@@ -1,5 +1,5 @@
 *{
-    font-family: cursive, Courier, monospace;
+    font-family: monospace , Courier, monospace;
     overflow: hidden;
     text-decoration: none;
 }
@@ -88,9 +88,9 @@ body{
         width: 25dvw;
     }
     #text{
-        transform: translate(9dvw, -19dvh);
+        transform: translate(9dvw, -17dvh);
         height: 12dvh;
-        width: 22dvw;
+        width: 25dvw;
     }
 }
 @media (max-width: 800px) {
